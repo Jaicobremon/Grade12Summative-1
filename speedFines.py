@@ -4,10 +4,10 @@
 # Defining the function
 def fineCalculator():
 
-    #Asking for speed limit
+    # Asking for speed limit
     speedLimit = input("What was the speed limit on the road ?: ")
 
-    #Asking for the drivers speed
+    # Asking for the drivers speed
     recordedSpeed = input("What speed were you driving at ?: ")
 
     # Calculating wheter the driver was speeding or not
